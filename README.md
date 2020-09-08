@@ -8,7 +8,7 @@ into separate database tables.
 Install the module via composer, therefore adapt the ``require`` part of your ``composer.json``:
 ```
 "require": {
-    "anexia/laravel-changeset": "1.0.1"
+    "anexia/laravel-changeset": "1.1.0"
 }
 ```
 
