@@ -4,7 +4,7 @@ namespace Anexia\Changeset\Traits;
 
 use Anexia\Changeset\Changerecord;
 use Anexia\Changeset\Changeset;
-use Anexia\Changeset\ChangesetUserInterface;
+use Anexia\Changeset\Interfaces\ChangesetUserInterface;
 use Anexia\Changeset\ObjectType;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;

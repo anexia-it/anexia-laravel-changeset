@@ -1,11 +1,14 @@
 {
     "name": "anexia/laravel-changeset",
     "description": "A laravel module to monitor model changes and log them into the database",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "autoload": {
         "psr-4": {
             "Anexia\\Changeset\\": "src"
         }
+    },
+    "require": {
+        "laravel/framework": "<5.8.0"
     }
 }
