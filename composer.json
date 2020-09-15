@@ -1,7 +1,7 @@
 {
     "name": "anexia/laravel-changeset",
     "description": "A laravel module to monitor model changes and log them into the database",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -9,6 +9,6 @@
         }
     },
     "require": {
-        "laravel/framework": "<5.8.0"
+        "laravel/framework": ">=5.8.0"
     }
 }
